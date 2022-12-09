@@ -1,34 +1,45 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+Github+✌!)](https://git.io/typingsvg)
+
+👋  Hi there
 ================================
+I'm a full stack software engineer/developer with experience in data analytics. I specialize in creating scalable, maintainable, and efficient web applications using a variety of technologies. I have a strong background in data analysis and enjoy using my skills to uncover insights and drive business decisions. You can find some of my open-source projects on my GitHub profile. Feel free to reach out to me if you have any questions or want to collaborate on a project.
 
-Full stack Software Engineer / Developer
-----------------------------------------
+## Work Experience
 
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=SebastianRicci-x&theme=github"/>
-</div>
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg"/>](https://www.amazon.com)
 
 
-* 🌍  I'm based in Spain
-* ✉️  You can contact me at [sebastianricciz@gmail.com](mailto:sebastianricciz@gmail.com)
-* 
-### Daily Dev meme
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+**Business Analyst** \
+[**Amazon**](https://www.amazon.com/) • Full-time \
+Languages & Technologies: `SQL`, `Python`, `VBA`, `Tableau` \
+<br/>
+<br/>
 
-### Languages
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logotipo_Universidad_de_Navarra_negro_sobre_blanco-SVG.svg"/>](https://tecnun.unav.edu/)
+
+**Information Systems Researcher** \
+[**Universidad de Navarra**](https://tecnun.unav.edu/) • Full-time \
+Languages & Technologies: `VBA`, `Javascript`\
+Published Thesis: [Analysis and design of information systems](https://dadun.unav.edu/handle/10171/64406)
+<br/>
+
+For a more detailed description of my full work experience, education and certification take a look at my LinkedIn at the bottom!
+
+## 🧰 My toolbox
+<details>
+  <summary><b>&nbsp;&nbsp;Languages</b></summary>
+	<br>
+	<p align="left">
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
+</details>
 
-### Front End
-<p align="left">
+<details>
+  <summary><b>&nbsp;&nbsp;Front End</b></summary>
+	<br>
+	<p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
@@ -38,9 +49,12 @@ Full stack Software Engineer / Developer
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+</details>
 
-### Back End
-<p align="left">
+<details>
+  <summary><b>&nbsp;&nbsp;Back End</b></summary>
+	<br>
+	<p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
@@ -49,22 +63,27 @@ Full stack Software Engineer / Developer
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
+</details>
 
-### AWS:
-<p align="left">
+<details>
+  <summary><b>&nbsp;&nbsp;AWS</b></summary>
+	<br>
+	<p align="left">
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" width="36" height="36" alt="DynamoDB" /></a>
 <a href="https://aws.amazon.com/cognito/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-cognito.svg" width="36" height="36" alt="Cognito" /></a>
 <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" width="36" height="36" alt="API-Gateway" /></a>
 <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg" width="36" height="36" alt="Lambda" /></a>
-<a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-cloudfront.svg" width="36" height="36" alt="CloudFront" /></a>
-<a href="https://aws.amazon.com/route-53/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-route53.svg" width="36" height="36" alt="Route-53" /></a>
 </p>
+</details>
 
-## 🖥 Past work
+## 🖥 Favorite projects
 
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=DaysOff&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/DaysOff) &nbsp; [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Investigate-a-Relational-Database&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Investigate-a-Relational-Database)  &nbsp;
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=DaysOff&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/DaysOff)
 
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Explore-US-Bikeshare-Data) &nbsp;
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Investigate-a-Relational-Database&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Investigate-a-Relational-Database)
+
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Explore-US-Bikeshare-Data)
+
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=mytableDev&repo=mytable&theme=radical&hide_border=false&locale=en)](https://github.com/mytableDev/mytable)
 
 
@@ -74,5 +93,16 @@ Full stack Software Engineer / Developer
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianRicci&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-### Socials
-<a href="https://www.linkedin.com/in/sebastian-ricci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+## 📱 Socials
+<a href="https://linkedin.com/in/sebastian-ricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/SebastianRicciZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20736286/sebastian-ricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/sebastianricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+## 😆 Daily Dev Meme:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
