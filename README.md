@@ -21,7 +21,7 @@ Languages & Technologies: `SQL`, `Python`, `VBA`, `Tableau` \
 Languages & Technologies: `VBA`, `Javascript`\
 Published Thesis: [Analysis and design of information systems](https://dadun.unav.edu/handle/10171/64406)
 <br/>
-
+<br>
 For a more detailed description of my full work experience, education and certification take a look at my LinkedIn at the bottom!
 
 ## 🧰 My toolbox
@@ -78,13 +78,13 @@ For a more detailed description of my full work experience, education and certif
 
 ## 🖥 Favorite projects
 
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=mytableDev&repo=mytable&theme=radical&hide_border=false&locale=en)](https://github.com/mytableDev/mytable)
+
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=DaysOff&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/DaysOff)
 
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Investigate-a-Relational-Database&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Investigate-a-Relational-Database)
 
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Explore-US-Bikeshare-Data)
-
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=mytableDev&repo=mytable&theme=radical&hide_border=false&locale=en)](https://github.com/mytableDev/mytable)
 
 
 ## 📊 Stats
@@ -95,12 +95,14 @@ For a more detailed description of my full work experience, education and certif
 
 
 ## 📱 Socials
+
 <a href="https://linkedin.com/in/sebastian-ricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/SebastianRicciZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20736286/sebastian-ricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/sebastianricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 ## 😆 Daily Dev Meme:
+
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 <div align="center">
