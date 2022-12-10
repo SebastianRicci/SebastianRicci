@@ -1,14 +1,12 @@
+# 👋 Hi there
 
-👋  Hi there
-================================
 I'm a full stack software engineer/developer with experience in data analytics. I specialize in creating scalable, maintainable, and efficient web applications using a variety of technologies. I have a strong background in data analysis and enjoy using my skills to uncover insights and drive business decisions. You can find some of my open-source projects on my GitHub profile. Feel free to reach out to me if you have any questions or want to collaborate on a project.
 
 ## Work Experience
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg"/>](https://www.amazon.com)
 
-
-**Business Analyst** \
+**Business Analyst Intern** \
 [**Amazon**](https://www.amazon.com/) • Full-time \
 Languages & Technologies: `SQL`, `Python`, `VBA`, `Tableau` \
 <br/>
@@ -25,6 +23,7 @@ Published Thesis: [Analysis and design of information systems](https://dadun.una
 For a more detailed description of my full work experience, education and certification take a look at my LinkedIn at the bottom!
 
 ## 🧰 My toolbox
+
 <details>
   <summary><b>&nbsp;&nbsp;Languages</b></summary>
 	<br>
@@ -86,13 +85,11 @@ For a more detailed description of my full work experience, education and certif
 
 [![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Explore-US-Bikeshare-Data)
 
-
 ## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianRicci&show_icons=true&theme=radical&hide=prs,issues,contribs&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianRicci&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
 
 ## 📱 Socials
 
