@@ -4,7 +4,7 @@ I'm a full stack software engineer/developer with experience in data analytics. 
 
 ## Work Experience
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg"/>](https://www.amazon.com)
+[<img align="left" height="94px" width="94px" alt="Amazon" src="https://www.shareicon.net/data/2015/09/29/109078_media_512x512.png"/>](https://www.amazon.com)
 
 **Business Analyst Intern** \
 [**Amazon**](https://www.amazon.com/) • Full-time \
@@ -12,7 +12,7 @@ Languages & Technologies: `SQL`, `Python`, `VBA`, `Tableau` \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logotipo_Universidad_de_Navarra_negro_sobre_blanco-SVG.svg"/>](https://tecnun.unav.edu/)
+[<img align="left" height="94px" width="94px" alt="Universidad de Navarra" src="https://pbs.twimg.com/profile_images/1269015203750055939/OBpoqfxC_400x400.jpg"/>](https://tecnun.unav.edu/)
 
 **Information Systems Researcher** \
 [**Universidad de Navarra**](https://tecnun.unav.edu/) • Full-time \
