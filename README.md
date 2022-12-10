@@ -77,14 +77,18 @@ For a more detailed description of my full work experience, education and certif
 </details>
 
 ## 🖥 Favorite projects
-
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=mytableDev&repo=mytable&theme=radical&hide_border=false&locale=en)](https://github.com/mytableDev/mytable)
-
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=DaysOff&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/DaysOff)
-
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Investigate-a-Relational-Database&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Investigate-a-Relational-Database)
-
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=false&locale=en)](https://github.com/SebastianRicci/Explore-US-Bikeshare-Data)
+<a href="https://github.com/SebastianRicci/Investigate-a-Relational-Database">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Investigate-a-Relational-Database&theme=radical&hide_border=false&locale=en" />
+</a>
+<a href="https://github.com/SebastianRicci/DaysOff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=DaysOff&theme=radical&hide_border=false&locale=en" />
+</a>
+<a href="https://github.com/mytableDev/mytable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mytableDev&repo=mytable&theme=radical&hide_border=false&locale=en" />
+</a>
+<a href="https://github.com/SebastianRicci/Explore-US-Bikeshare-Data">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=false&locale=en" />
+</a>
 
 ## 📊 Stats
 
