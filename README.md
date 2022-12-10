@@ -72,6 +72,7 @@ For a more detailed description of my full work experience, education and certif
 <a href="https://aws.amazon.com/cognito/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-cognito.svg" width="36" height="36" alt="Cognito" /></a>
 <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" width="36" height="36" alt="API-Gateway" /></a>
 <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg" width="36" height="36" alt="Lambda" /></a>
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png" width="36" height="36" alt="Amplify" /></a>
 </p>
 </details>
 
