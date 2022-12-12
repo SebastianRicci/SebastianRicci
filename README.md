@@ -90,6 +90,9 @@ For a more detailed description of my full work experience, education and certif
 <a href="https://github.com/SebastianRicci/Explore-US-Bikeshare-Data">
   <img align="center" src="https://github-readme-stats-sebastianricci.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=true&locale=en" />
 </a>
+<a href="https://github.com/SebastianRicci/tourify">
+  <img align="center" src="https://github-readme-stats-sebastianricci.vercel.app/api/pin/?username=SebastianRicci&repo=tourify&theme=radical&hide_border=true&locale=en" />
+</a>
 
 ## 📊 Stats
 
