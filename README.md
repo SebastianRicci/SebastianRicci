@@ -86,7 +86,7 @@ For a more detailed description of my full work experience, education and certif
 <a href="https://github.com/SebastianRicci/DaysOff">
   <img align="center" src="https://github-readme-stats-sebastianricci.vercel.app/api/pin/?username=SebastianRicci&repo=DaysOff&theme=radical&hide_border=true&locale=en" />
 </a>
-<a href="https://github.com/mytableDev/mytable">
+<a href="https://mytable.tech">
   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/mytable.svg" />
 </a>
 <a href="https://github.com/SebastianRicci/Explore-US-Bikeshare-Data">
