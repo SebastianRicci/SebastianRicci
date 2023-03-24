@@ -10,7 +10,7 @@ I'm a full stack software engineer/developer with experience in data analytics. 
 
 **Business Analyst Intern** \
 [**Amazon**](https://www.amazon.com/) • Full-time \
-Languages & Technologies: `SQL`, `Python`, `VBA`, `Tableau` \
+Languages & Technologies: `Python`, `SQL`, `VBA`, `Tableau` \
 <br/>
 <br/>
 
@@ -18,7 +18,7 @@ Languages & Technologies: `SQL`, `Python`, `VBA`, `Tableau` \
 
 **Information Systems Researcher** \
 [**Universidad de Navarra**](https://tecnun.unav.edu/) • Full-time \
-Languages & Technologies: `VBA`, `Javascript`\
+Languages & Technologies: `Javascript`, `VBA` \
 Published Thesis: [Analysis and design of information systems](https://dadun.unav.edu/handle/10171/64406)
 <br/>
 <br>
