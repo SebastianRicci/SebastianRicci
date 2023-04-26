@@ -85,7 +85,7 @@ For a more detailed description of my full work experience, education and certif
 <a href="https://github.com/SebastianRicci/Investigate-a-Relational-Database">
    <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Investigate-a-Relational-Database.svg" />
 </a>
-<a href="https://github.com/SebastianRicci/DaysOff">
+<a href="https://daysoff.me">
   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/daysOff.svg" />
 </a>
 </a>
