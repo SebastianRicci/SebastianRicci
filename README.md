@@ -83,7 +83,7 @@ For a more detailed description of my full work experience, education and certif
 
 ## 🖥 Favorite projects
 <a href="https://github.com/SebastianRicci/Investigate-a-Relational-Database">
-  <img align="center" src="https://github-readme-stats-sebastianricci.vercel.app/api/pin/?username=SebastianRicci&repo=Investigate-a-Relational-Database&theme=radical&hide_border=true&locale=en" />
+   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Investigate-a-Relational-Database.svg" />
 </a>
 <a href="https://github.com/SebastianRicci/DaysOff">
   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/daysOff.svg" />
@@ -93,10 +93,10 @@ For a more detailed description of my full work experience, education and certif
   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/mytable.svg" />
 </a>
 <a href="https://github.com/SebastianRicci/Explore-US-Bikeshare-Data">
-  <img align="center" src="https://github-readme-stats-sebastianricci.vercel.app/api/pin/?username=SebastianRicci&repo=Explore-US-Bikeshare-Data&theme=radical&hide_border=true&locale=en" />
+  <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Explore-US-Bikeshare-Data.svg" />
 </a>
 <a href="https://github.com/SebastianRicci/tourify">
-  <img align="center" src="https://github-readme-stats-sebastianricci.vercel.app/api/pin/?username=SebastianRicci&repo=tourify&theme=radical&hide_border=true&locale=en" />
+   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/tourify.svg" />
 </a>
 
 ## 📊 Stats
