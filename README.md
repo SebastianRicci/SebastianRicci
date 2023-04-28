@@ -113,6 +113,6 @@ For a more detailed description of my full work experience, education and certif
 <a href="https://instagram.com/sebastianricci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/SebastianRicci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leet Code" height="30" width="40" /></a>
 
-## 😁 Dev Meme:
+## 😁 Dev Joke:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
