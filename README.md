@@ -2,7 +2,7 @@
 
 I'm a full stack software engineer/developer with experience in data analytics. I specialize in creating scalable, maintainable, and efficient web applications using a variety of technologies. I have a strong background in data analysis and enjoy using my skills to uncover insights and drive business decisions. You can find some of my open-source projects on my GitHub profile. Feel free to reach out to me if you have any questions or want to collaborate on a project.
 
-![snake gif](https://github.com/SebastianRicci/SebastianRicci/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SebastianRicci/SebastianRicci/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Work Experience
 
