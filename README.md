@@ -85,11 +85,11 @@ For a more detailed description of my full work experience, education and certif
 <a href="https://github.com/SebastianRicci/Investigate-a-Relational-Database">
    <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Investigate-a-Relational-Database.svg" />
 </a>
-<a href="https://daysoff.me">
+<a href="https://github.com/SebastianRicci/DaysOff">
   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/daysOff.svg" />
 </a>
 </a>
-<a href="https://mytable.tech">
+<a href="https://github.com/mytableDev/mytable">
   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/mytable.svg" />
 </a>
 <a href="https://github.com/SebastianRicci/Explore-US-Bikeshare-Data">
