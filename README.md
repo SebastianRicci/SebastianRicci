@@ -8,7 +8,7 @@ I'm a full stack software engineer/developer with experience in data analytics. 
 
 [<img align="left" height="94px" width="94px" alt="Amazon" src="https://www.shareicon.net/data/2015/09/29/109078_media_512x512.png"/>](https://www.amazon.com)
 
-**Business Analyst Intern** \
+**Data Analyst Intern** \
 [**Amazon**](https://www.amazon.com/) • Full-time \
 Languages & Technologies: `Python`, `SQL`, `VBA`, `Tableau` \
 <br/>
