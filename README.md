@@ -9,6 +9,23 @@ I'm a full stack software engineer/developer with experience in data analytics. 
 
 ## Work Experience
 
+[<img align="left" height="94px" width="94px" alt="Talentum" src="https://img1.wsimg.com/isteam/ip/3f726aaa-a6d1-4a9e-b5a7-7eb824419883/LOGO%202%20EP%20(1).jpg/:/rs=h:200,cg:true,m/qt=q:95"/>](https://graceful-feel-113515.framer.app/)
+
+**Lead Software Engineer** \
+[**Talentum**](https://graceful-feel-113515.framer.app/) • Full-time \
+Languages & Technologies: `Next.js`, `Typescript`, `Prisma`, `Planetscale`, `AWS S3`, `Clerk`, `Vercel`, `Framer` \
+Work In Progress: Transitioning from [old website](https://talentumprogram.es/) to [new one](https://graceful-feel-113515.framer.app/), and currently building [online platform](https://talentum.vercel.app/apply) in Next.js
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Jackrom" src="https://media.licdn.com/dms/image/D4E0BAQFDIzpKKc1Q8Q/company-logo_200_200/0/1684854971867?e=2147483647&v=beta&t=AHPgmjgQe0g1XfOkxciFnGBH-QO1pwre7gfGG-Ry1uI"/>](https://jackrom.com/)
+
+**Technical Project Manager** \
+[**Jackrom**](https://jackrom.com/) • Full-time \
+Languages & Technologies: `Power Apps`, `Power Automate`, `Power BI`, `SharePoint` \
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Amazon" src="https://www.shareicon.net/data/2015/09/29/109078_media_512x512.png"/>](https://www.amazon.com)
 
 **Data Analyst** \
