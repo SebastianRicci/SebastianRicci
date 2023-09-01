@@ -9,12 +9,12 @@ I'm a full stack software engineer/developer with experience in data analytics. 
 
 ## Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Talentum" src="https://img1.wsimg.com/isteam/ip/3f726aaa-a6d1-4a9e-b5a7-7eb824419883/LOGO%202%20EP%20(1).jpg/:/rs=h:200,cg:true,m/qt=q:95"/>](https://graceful-feel-113515.framer.app/)
+[<img align="left" height="94px" width="94px" alt="Talentum" src="https://img1.wsimg.com/isteam/ip/3f726aaa-a6d1-4a9e-b5a7-7eb824419883/LOGO%202%20EP%20(1).jpg/:/rs=h:200,cg:true,m/qt=q:95"/>](https://talentumprogram.com/)
 
 **Lead Software Engineer** \
-[**Talentum**](https://graceful-feel-113515.framer.app/) • Full-time \
+[**Talentum**](https://talentumprogram.com/) • Full-time \
 Languages & Technologies: `Next.js`, `Typescript`, `Prisma`, `Planetscale`, `AWS S3`, `Clerk`, `Vercel`, `Framer` \
-Work In Progress: Transitioning from [old website](https://talentumprogram.es/) to [new one](https://graceful-feel-113515.framer.app/), and currently building [online platform](https://talentum.vercel.app/apply) in Next.js
+Work In Progress: Transitioning from [old website](https://talentumprogram.es/) to [new one](https://talentumprogram.com/), and currently building [online platform](https://platform.talentumprogram.com) in Next.js
 <br/>
 <br/>
 
