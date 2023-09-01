@@ -9,7 +9,7 @@ I'm a full stack software engineer/developer with experience in data analytics. 
 
 ## Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Talentum" src="https://img1.wsimg.com/isteam/ip/3f726aaa-a6d1-4a9e-b5a7-7eb824419883/LOGO%202%20EP%20(1).jpg/:/rs=h:200,cg:true,m/qt=q:95"/>](https://talentumprogram.com/)
+[<img align="left" height="94px" width="94px" alt="Talentum" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Talentum.svg" />](https://talentumprogram.com/)
 
 **Lead Software Engineer** \
 [**Talentum**](https://talentumprogram.com/) • Full-time \
