@@ -14,7 +14,7 @@ I'm a full stack software engineer/developer with experience in data analytics. 
 **Lead Software Engineer** \
 [**Talentum**](https://talentumprogram.com/) • Full-time \
 Languages & Technologies: `Next.js`, `Typescript`, `Prisma`, `Planetscale`, `AWS S3`, `Clerk`, `Vercel`, `Framer` \
-Work In Progress: Transitioning from [old website](https://talentumprogram.es/) to [new one](https://talentumprogram.com/), and currently building [online platform](https://platform.talentumprogram.com) in Next.js
+Work In Progress: Developing [Talentum's website](https://talentumprogram.com/), and currently building [online platform](https://platform.talentumprogram.com) in Next.js
 <br/>
 <br/>
 
