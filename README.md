@@ -123,7 +123,8 @@ For a more detailed description of my full work experience, education and certif
 
 ![GitHub Stats](https://github-readme-stats-sebastianricci.vercel.app/api?username=SebastianRicci&show_icons=true&theme=radical&hide=prs,issues,contribs&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianRicci&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianRicci&theme=radical&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
 
 ## 📱 Socials
 
