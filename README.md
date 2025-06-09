@@ -9,6 +9,15 @@ I'm a full stack software engineer with experience in data analytics. I speciali
 
 ## Work Experience
 
+[<img align="left" height="94px" width="94px" alt="Capchase" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Capchase-Logo.png" />](https://capchase.com/)
+
+**Software Engineer** \
+[**Capchase**](https://capchase.com/) • Full-time \
+Languages & Technologies: `Typescript`, `NestJS` \
+<br/>
+<br/>
+
+
 [<img align="left" height="94px" width="94px" alt="Talentum" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Talentum.svg" />](https://talentumprogram.com/)
 
 **Lead Software Engineer** \
