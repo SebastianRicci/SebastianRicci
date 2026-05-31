@@ -1,6 +1,6 @@
 # 👋 Hi there ![](https://komarev.com/ghpvc/?username=SebastianRicci&color=d93b7d)
 
-I'm a full stack software engineer with experience in data analytics. I specialize in creating scalable, maintainable, and efficient web applications using a variety of technologies. I have a strong background in data analysis and enjoy using my skills to uncover insights and drive business decisions. You can find some of my open-source projects on my GitHub profile. Feel free to reach out to me if you have any questions or want to collaborate on a project.
+I'm a full-stack software engineer focused on AI & product. At Capchase I own product initiatives end to end and co-lead the AI Agents community, building production AI agents and the evaluations that keep them reliable. I specialize in creating scalable, maintainable, and efficient web applications, and I enjoy turning complex problems into shipped features that drive real business impact. You can find some of my open-source projects on my GitHub profile. Feel free to reach out to me if you have any questions or want to collaborate on a project.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SebastianRicci/SebastianRicci/blob/output/github-contribution-grid-snake-dark.svg">
@@ -13,21 +13,20 @@ I'm a full stack software engineer with experience in data analytics. I speciali
 
 **Software Engineer** \
 [**Capchase**](https://capchase.com/) • Full-time \
-Languages & Technologies: `Typescript`, `NestJS` \
+Languages & Technologies: `Typescript`, `NestJS`, `React`, `Next.js`, `Prisma`, `PostgreSQL`, `AI Agents`, `Mastra`, `Langfuse` \
 <br/>
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Talentum" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Talentum.svg" />](https://talentumprogram.com/)
+[<img align="left" height="94px" width="94px" alt="Talentum" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/talentum-logo.jpg" />](https://talentumprogram.com/)
 
-**Lead Software Engineer** \
+**Founding Engineer** \
 [**Talentum**](https://talentumprogram.com/) • Full-time \
 Languages & Technologies: `Next.js`, `Typescript`, `Prisma`, `Planetscale`, `AWS S3`, `Clerk`, `Vercel`, `Framer` \
-Work In Progress: Developing [Talentum's website](https://talentumprogram.com/), and currently building [online platform](https://platform.talentumprogram.com) in Next.js
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Jackrom" src="https://media.licdn.com/dms/image/D4E0BAQFDIzpKKc1Q8Q/company-logo_200_200/0/1684854971867?e=2147483647&v=beta&t=AHPgmjgQe0g1XfOkxciFnGBH-QO1pwre7gfGG-Ry1uI"/>](https://jackrom.com/)
+[<img align="left" height="94px" width="94px" alt="Jackrom" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/jackrom.jpg"/>](https://jackrom.com/)
 
 **Technical Project Manager** \
 [**Jackrom**](https://jackrom.com/) • Full-time \
@@ -35,7 +34,7 @@ Languages & Technologies: `Power Apps`, `Power Automate`, `Power BI`, `SharePoin
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Amazon" src="https://www.shareicon.net/data/2015/09/29/109078_media_512x512.png"/>](https://www.amazon.com)
+[<img align="left" height="94px" width="94px" alt="Amazon" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/amazon.jpg"/>](https://www.amazon.com)
 
 **Data Analyst** \
 [**Amazon**](https://www.amazon.com/) • Full-time \
@@ -43,9 +42,9 @@ Languages & Technologies: `Python`, `SQL`, `VBA`, `Tableau` \
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Universidad de Navarra" src="https://pbs.twimg.com/profile_images/1269015203750055939/OBpoqfxC_400x400.jpg"/>](https://tecnun.unav.edu/)
+[<img align="left" height="94px" width="94px" alt="Universidad de Navarra" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/tecnun-navarra.jpg"/>](https://tecnun.unav.edu/)
 
-**Information Systems Researcher** \
+**Information Systems Teaching Assistant** \
 [**Universidad de Navarra**](https://tecnun.unav.edu/) • Full-time \
 Languages & Technologies: `Javascript`, `VBA` \
 Published Thesis: [Analysis and design of information systems](https://dadun.unav.edu/handle/10171/64406)
@@ -55,16 +54,14 @@ For a more detailed description of my full work experience, education and certif
 
 ## 🧰 My toolbox
 
-<details>
+<details open>
   <summary><b>&nbsp;&nbsp;Languages</b></summary>
 	<br>
 	<p align="left">
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-	<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="36" height="36" alt="Matlab" /></a>
-	<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="36" height="36" alt="R" /></a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
+	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+	<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL" /></a>
 </p>
 </details>
 
@@ -72,61 +69,42 @@ For a more detailed description of my full work experience, education and certif
   <summary><b>&nbsp;&nbsp;Front End</b></summary>
 	<br>
 	<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
 </p>
 </details>
 
 <details>
-  <summary><b>&nbsp;&nbsp;Back End</b></summary>
+  <summary><b>&nbsp;&nbsp;Back End &amp; Data</b></summary>
 	<br>
 	<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://koajs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png" width="36" height="36" alt="Koa" /></a>	
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 </details>
 
 <details>
-  <summary><b>&nbsp;&nbsp;AWS</b></summary>
+  <summary><b>&nbsp;&nbsp;AI &amp; Evaluations</b></summary>
 	<br>
 	<p align="left">
-<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" width="36" height="36" alt="DynamoDB" /></a>
-<a href="https://aws.amazon.com/cognito/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-cognito.svg" width="36" height="36" alt="Cognito" /></a>
-<a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" width="36" height="36" alt="API-Gateway" /></a>
-<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg" width="36" height="36" alt="Lambda" /></a>
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png" width="36" height="36" alt="Amplify" /></a>
+<a href="https://mastra.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mastra-000000?style=for-the-badge&logoColor=white" height="28" alt="Mastra" /></a>
+<a href="https://langfuse.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logoColor=white" height="28" alt="Langfuse" /></a>
+<a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LLM--as--a--Judge-5A4FCF?style=for-the-badge&logoColor=white" height="28" alt="LLM-as-a-Judge" /></a>
 </p>
 </details>
 
-## 🖥 Favorite projects
-<a href="https://github.com/SebastianRicci/Investigate-a-Relational-Database">
-   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Investigate-a-Relational-Database.svg" />
-</a>
-<a href="https://github.com/SebastianRicci/DaysOff">
-  <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/daysOff.svg" />
-</a>
-</a>
-<a href="https://github.com/mytableDev/mytable">
-  <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/mytable.svg" />
-</a>
-<a href="https://github.com/SebastianRicci/Explore-US-Bikeshare-Data">
-  <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/Explore-US-Bikeshare-Data.svg" />
-</a>
-<a href="https://github.com/SebastianRicci/tourify">
-   <img align="center" src="https://github.com/SebastianRicci/SebastianRicci/blob/main/assets/tourify.svg" />
-</a>
+<details>
+  <summary><b>&nbsp;&nbsp;DevOps &amp; Observability</b></summary>
+	<br>
+	<p align="left">
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions / CI-CD" /></a>
+<a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="36" height="36" alt="Datadog" /></a>
+<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="36" height="36" alt="OpenTelemetry" /></a>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="36" height="36" alt="Stripe" /></a>
+</p>
+</details>
 
 ## 📊 Stats
 
